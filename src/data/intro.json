@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "intro",
+            "type": "items",
+            "action": {
+                "name": "openURL",
+                "type" : "link"
+            },
+            "items": [
+                {
+                    "name": "Hello",
+                    "body": {
+                        "desc": "I'm a dedicated full-stack developer passionate about blending design and functionality to craft high-quality digital solutions. Specializing in turning concepts into flawless user experiences."
+                    }
+                }
+            ]
+        }
+    ]
+}

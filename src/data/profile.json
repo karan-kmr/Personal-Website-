@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "name": "portfolio",
+            "type": "items",
+            "action": {
+                "name": "openURL",
+                "type" : "link"
+            },
+            "items": [
+                {
+                    "name": "Karan Kumar",
+                    "body": {
+                        "title": "Karan Kumar",
+                        "image": "../../assets/media/profilePhoto.webp"
+                    }
+                }
+            ]
+        }
+    ]
+}
