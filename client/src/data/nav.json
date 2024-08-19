@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "navbar",
+            "type": "items",
+            "action": {
+                "name": "openURL"
+            },
+            "items": [
+                {
+                    "name": "Work",
+                    "body": {}
+                },
+                
+                {
+                    "name": "Articles",
+                    "body": {}
+                }
+            ]
+        }
+    ]
+}
