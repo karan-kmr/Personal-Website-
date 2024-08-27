@@ -29,7 +29,7 @@ function ArticleCard() {
                   onClick={() => openModal("All Articles",
                   <AllProjects/>, "View LinkedIn", "Link"
                   )}
-                  className="title hidden lg:flex bg-dark-bg text-body"
+                  className="title hidden  lg:hidden bg-dark-bg text-body"
                 >
                   {buttonItem.label}&emsp;
                   <span>
@@ -64,7 +64,7 @@ function ArticleCard() {
             ))
         )}
       </div>
-      <div className="w-full py-4 flex justify-center items-center lg:hidden bg-dark-bg text-body">
+      <div className="w-full py-4 xs:hidden flex justify-center items-center lg:hidden bg-dark-bg text-body">
         {Buttons.data.map((data) =>
           data.items
             .filter((button) => button.name.toLowerCase() === "more-articles")

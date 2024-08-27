@@ -17,19 +17,22 @@
                         "id": 2,
                         "name": "Twitter",
                         "image": "BiX",
-                        "desc": ""
+                        "desc": "",
+                        "url":"https://twitter.com/karan_developer"
                     },
                     {
                         "id": 3,
                         "name": "LinkedIn",
                         "image": "BiLogoLinkedin",
-                        "desc": ""
+                        "desc": "",
+                        "url":"https://www.linkedin.com/in/karandeveloper"
                     },
                     {
                         "id": 4,
                         "name": "Instagram",
                         "image": "BiLogoInstagramAlt",
-                        "desc": ""
+                        "desc": "",
+                        "url":"https://www.instagram.com/karandeveloper/"
                     }
 
                 ],

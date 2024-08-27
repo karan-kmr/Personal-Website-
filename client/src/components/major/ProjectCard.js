@@ -25,7 +25,7 @@ function ProjectCard() {
                   onClick={() => openModal("All Projects",
                   <AllProjects/>, "View Github", "Link"
                   )}
-                  className="title hidden lg:flex bg-dark-bg text-body"
+                  className="title hidden lg:hidden bg-dark-bg text-body"
                 >
                   {buttonItem.label}&emsp;
                   <span>
@@ -79,7 +79,7 @@ function ProjectCard() {
             ))
         )}
       </div>
-      <div className="w-full py-4 flex justify-center items-center md:hidden bg-dark-bg text-body">
+      <div className="w-full py-4 flex xs:hidden justify-center items-center md:hidden bg-dark-bg text-body"> 
         {Buttons.data.map((data) =>
           data.items
             .filter((button) => button.name.toLowerCase() === "more-projects")
