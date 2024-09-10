@@ -17,6 +17,7 @@
     "@strapi/provider-email-nodemailer": "^4.25.8",
     "@strapi/strapi": "4.25.8",
     "better-sqlite3": "8.6.0",
+    "express": "^4.20.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",

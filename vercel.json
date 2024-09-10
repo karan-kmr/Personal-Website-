@@ -1,0 +1,11 @@
+
+{
+    "redirects": [
+      {
+        "source": "/projects/contact-manager",
+        "destination": "https://contact-manager-rosy.vercel.app/",
+        "permanent": true
+      }
+    ]
+  }
+  

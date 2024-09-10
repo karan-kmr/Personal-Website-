@@ -9,4 +9,10 @@ module.exports = [
   'strapi::session',
   'strapi::favicon',
   'strapi::public',
+  
+  // Add custom middleware
+  {
+    name: 'redirectMiddleware',
+    resolve: './redirects.js', // Path to your custom middleware
+  },
 ];
