@@ -2,8 +2,24 @@
 {
     "redirects": [
       {
+        "source": "/projects/menstrual-ios-app",
+        "destination": "https://youtu.be/jYfPodY3F7w",
+        "permanent": true
+      },
+      {
         "source": "/projects/contact-manager",
         "destination": "https://contact-manager-rosy.vercel.app/",
+        "permanent": true
+      },
+      {
+        "source": "/projects/alogirthm-visualizer",
+        "destination": "https://sorting-visualizer-beryl.vercel.app/",
+        "permanent": true
+      },
+
+      {
+        "source": "/projects/home-automation",
+        "destination": "https://drive.google.com/file/d/1EnupF--C_zNJ34w60c-dsA4J_IYDsNdO/view",
         "permanent": true
       }
     ]
