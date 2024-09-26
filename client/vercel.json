@@ -22,6 +22,26 @@
         "source": "/projects/home-automation",
         "destination": "https://drive.google.com/file/d/1EnupF--C_zNJ34w60c-dsA4J_IYDsNdO/view",
         "permanent": true
+      },
+      {
+        "source": "/socials/github",
+        "destination": "https://github.com/thekarandeveloper",
+        "permanent": true
+      },
+      {
+        "source": "/socials/leetcode",
+        "destination": "https://leetcode.com/u/karandeveloper/",
+        "permanent": true
+      },
+      {
+        "source": "/socials/linkedin",
+        "destination": "www.linkedin.com/in/karankumardev",
+        "permanent": true
+      },
+      {
+        "source": "/socials/x",
+        "destination": "https://x.com/karankumar_dev",
+        "permanent": true
       }
     ]
   }
