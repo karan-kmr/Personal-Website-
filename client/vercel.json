@@ -24,6 +24,11 @@
         "permanent": true
       },
       {
+        "source": "/projects/web-matrix",
+        "destination": "https://github.com/thekarandeveloper/Web-Matrix-Analyzer",
+        "permanent": true
+      },
+      {
         "source": "/socials/github",
         "destination": "https://github.com/thekarandeveloper",
         "permanent": true
