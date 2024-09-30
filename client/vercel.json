@@ -40,7 +40,7 @@
       },
       {
         "source": "/socials/linkedin",
-        "destination": "www.linkedin.com/in/karankumardev",
+        "destination": "https://www.linkedin.com/in/karankumardev/",
         "permanent": true
       },
       {
