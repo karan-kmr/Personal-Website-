@@ -47,6 +47,22 @@
         "source": "/socials/x",
         "destination": "https://x.com/karankumar_dev",
         "permanent": true
+      },
+      {
+        "source": "/socials/behance",
+        "destination": "https://www.behance.net/karankumarcv",
+        "permanent": true
+      },
+      {
+        "source": "/socials/dribble",
+        "destination": "https://dribbble.com/karankumarcv",
+        "permanent": true
+      }
+      ,
+      {
+        "source": "/socials/figma",
+        "destination": "https://www.figma.com/@karandeveloper",
+        "permanent": true
       }
     ]
   }
