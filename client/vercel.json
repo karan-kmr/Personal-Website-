@@ -64,6 +64,24 @@
         "destination": "https://www.figma.com/@karandeveloper",
         "permanent": true
       }
+      ,
+      {
+        "source": "/portfolio/project/lms",
+        "destination": "https://www.behance.net/gallery/209868101/Kaksha-LMS-iOS-App-UX-Case-Study",
+        "permanent": true
+      }
+      ,
+      {
+        "source": "/portfolio/project/maa",
+        "destination": "https://www.behance.net/gallery/209872075/Maa-App-Reminder-Your-Daily-Care-UX-Case-Study",
+        "permanent": true
+      }
+      ,
+      {
+        "source": "/portfolio/project/upi",
+        "destination": "https://www.behance.net/gallery/209872851/UX-Case-Study-Critical-UX-Flaw-in-UPI-Payment-Apps",
+        "permanent": true
+      }
     ]
   }
   
